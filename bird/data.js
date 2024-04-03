@@ -265,4 +265,5 @@ var APP_DATA = {
     "autorotateEnabled": true,
     "fullscreenButton": true,
     "viewControlButtons": true
+  }
 };
