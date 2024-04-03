@@ -24,11 +24,11 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "home",
+  "name": "Project Title",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
-    "fullscreenButton": false,
-    "viewControlButtons": false
+    "fullscreenButton": true,
+    "viewControlButtons": true
   }
 };
