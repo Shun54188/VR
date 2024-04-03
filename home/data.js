@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-",
-      "name": "動物園",
+      "name": "動物園入口",
       "levels": [
         {
           "tileSize": 256,
@@ -14,7 +14,7 @@ var APP_DATA = {
           "size": 512
         }
       ],
-      "faceSize": 256,
+      "faceSize": 512,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
@@ -24,7 +24,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "home",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
